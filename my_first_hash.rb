@@ -7,9 +7,9 @@ def my_hash
   
   def shipping_manifest
     the_manifest = {
-                     "Whale bone corsets" => 5,
-                    "Porcelain vases" => 2,
-                    "Oil Paintings" => 3 
+                     "whale bone corsets" => 5,
+                    "porcelain vases" => 2,
+                    "oil Paintings" => 3 
                     }
   
   
